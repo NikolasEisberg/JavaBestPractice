@@ -1,6 +1,6 @@
 package com.nikolaswerner.jbp.util;
 
-import com.nikolaswerner.jbp.common.Car;
+import com.nikolaswerner.jbp.common.helper.Car;
 import java.util.List;
 
 /**

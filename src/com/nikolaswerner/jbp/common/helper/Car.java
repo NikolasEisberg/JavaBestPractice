@@ -1,4 +1,4 @@
-package com.nikolaswerner.jbp.common;
+package com.nikolaswerner.jbp.common.helper;
 
 /**
  *
